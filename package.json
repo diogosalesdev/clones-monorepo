@@ -1,0 +1,11 @@
+{
+  "name": "clones",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Diogo Sales <diogosalesdev@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "pages/*"
+  ]
+}
