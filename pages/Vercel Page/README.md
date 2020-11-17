@@ -2,6 +2,17 @@
 UI Clone #17 - Vercel (Homepage)
 </h1>
 
+<br>
+
+## Home Page
+
+<br>
+
+<p align="center">
+  <img src="./assets/vercel-clone.gif"/>
+</p>
+<hr>
+
 <p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
 <p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist.</p>
 
